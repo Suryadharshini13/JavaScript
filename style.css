@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+    color: blue;
+    font-size: 2rem;
+    font-family:'Poppins';
+}
+h3{
+    font-weight: bold;
+    color: blue;
+    font-size: 1.5rem;
+    font-family:'Poppins';
+}
+p{
+    font-family:'Roboto';
+    font-size: 1rem;
+
+}
+ul { 
+    display: inline-block;
+    text-align: left; 
+}
